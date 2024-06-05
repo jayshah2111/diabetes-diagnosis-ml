@@ -1,1 +1,3 @@
 # diabetes-diagnosis-ml
+
+Diabetes is a pervasive chronic disease impacting millions globally, characterized by the body's inability to produce or effectively utilize insulin, leading to elevated blood sugar levels. Early detection and prompt management are crucial in preventing complications and enhancing the quality of life for individuals with diabetes. In this project, I will leverage machine learning algorithms to predict the risk of diabetes. Specifically, I will employ logistic regression, decision tree, random forest classifier, and naive Bayes algorithms to accurately determine whether an individual has diabetes.
